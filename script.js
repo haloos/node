@@ -1,7 +1,7 @@
-const c = require('./script2')
+const script2 = require('./script2')
 
-const a = largeNumber;
-const b = 5;
+const a = script2.largeNumber;
+const b = 6;
 
 console.log(a + b);
 
