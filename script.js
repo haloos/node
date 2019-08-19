@@ -1,4 +1,4 @@
-const largeNumber = require('./script2')
+const c = require('./script2')
 
 const a = largeNumber;
 const b = 5;
