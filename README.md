@@ -1,3 +1,3 @@
 # node
 
-<h3><em>Some use node in the terminal</em></h3>
+<h3><em>use node in the terminal</em></h3>
